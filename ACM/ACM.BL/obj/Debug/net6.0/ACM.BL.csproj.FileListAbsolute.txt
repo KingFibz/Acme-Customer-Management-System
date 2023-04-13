@@ -1,0 +1,15 @@
+E:\ACME_csharp_course_onOOP\ACM\ACM.BL\obj\Debug\net6.0\ACM.BL.csproj.AssemblyReference.cache
+E:\ACME_csharp_course_onOOP\ACM\ACM.BL\obj\Debug\net6.0\ACM.BL.GeneratedMSBuildEditorConfig.editorconfig
+E:\ACME_csharp_course_onOOP\ACM\ACM.BL\obj\Debug\net6.0\ACM.BL.AssemblyInfoInputs.cache
+E:\ACME_csharp_course_onOOP\ACM\ACM.BL\obj\Debug\net6.0\ACM.BL.AssemblyInfo.cs
+E:\ACME_csharp_course_onOOP\ACM\ACM.BL\obj\Debug\net6.0\ACM.BL.csproj.CoreCompileInputs.cache
+E:\ACME_csharp_course_onOOP\ACM\ACM.BL\bin\Debug\net6.0\ACM.BL.deps.json
+E:\ACME_csharp_course_onOOP\ACM\ACM.BL\bin\Debug\net6.0\ACM.BL.dll
+E:\ACME_csharp_course_onOOP\ACM\ACM.BL\bin\Debug\net6.0\ACM.BL.pdb
+E:\ACME_csharp_course_onOOP\ACM\ACM.BL\obj\Debug\net6.0\ACM.BL.dll
+E:\ACME_csharp_course_onOOP\ACM\ACM.BL\obj\Debug\net6.0\refint\ACM.BL.dll
+E:\ACME_csharp_course_onOOP\ACM\ACM.BL\obj\Debug\net6.0\ACM.BL.pdb
+E:\ACME_csharp_course_onOOP\ACM\ACM.BL\obj\Debug\net6.0\ref\ACM.BL.dll
+E:\ACME_csharp_course_onOOP\ACM\ACM.BL\bin\Debug\net6.0\Acme.Common.dll
+E:\ACME_csharp_course_onOOP\ACM\ACM.BL\bin\Debug\net6.0\Acme.Common.pdb
+E:\ACME_csharp_course_onOOP\ACM\ACM.BL\obj\Debug\net6.0\ACM.BL.csproj.CopyComplete

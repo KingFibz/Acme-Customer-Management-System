@@ -1,0 +1,6 @@
+E:\ACME_csharp_course_onOOP\ACM\Acme.Common\bin\Debug\Acme.Common.dll
+E:\ACME_csharp_course_onOOP\ACM\Acme.Common\bin\Debug\Acme.Common.pdb
+E:\ACME_csharp_course_onOOP\ACM\Acme.Common\obj\Debug\Acme.Common.csproj.AssemblyReference.cache
+E:\ACME_csharp_course_onOOP\ACM\Acme.Common\obj\Debug\Acme.Common.csproj.CoreCompileInputs.cache
+E:\ACME_csharp_course_onOOP\ACM\Acme.Common\obj\Debug\Acme.Common.dll
+E:\ACME_csharp_course_onOOP\ACM\Acme.Common\obj\Debug\Acme.Common.pdb

@@ -1,0 +1,159 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\ACME_csharp_course_onOOP\\ACM\\ACM.BLTesting\\ACM.BLTesting.csproj": {}
+  },
+  "projects": {
+    "E:\\ACME_csharp_course_onOOP\\ACM\\ACM.BLTesting\\ACM.BLTesting.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\ACME_csharp_course_onOOP\\ACM\\ACM.BLTesting\\ACM.BLTesting.csproj",
+        "projectName": "ACM.BLTesting",
+        "projectPath": "E:\\ACME_csharp_course_onOOP\\ACM\\ACM.BLTesting\\ACM.BLTesting.csproj",
+        "packagesPath": "C:\\Users\\peter\\.nuget\\packages\\",
+        "outputPath": "E:\\ACME_csharp_course_onOOP\\ACM\\ACM.BLTesting\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\peter\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "E:\\ACME_csharp_course_onOOP\\ACM\\ACM.BL\\ACM.BL.csproj": {
+                "projectPath": "E:\\ACME_csharp_course_onOOP\\ACM\\ACM.BL\\ACM.BL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[2.2.8, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.2.8, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.1.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\ACME_csharp_course_onOOP\\ACM\\ACM.BL\\ACM.BL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\ACME_csharp_course_onOOP\\ACM\\ACM.BL\\ACM.BL.csproj",
+        "projectName": "ACM.BL",
+        "projectPath": "E:\\ACME_csharp_course_onOOP\\ACM\\ACM.BL\\ACM.BL.csproj",
+        "packagesPath": "C:\\Users\\peter\\.nuget\\packages\\",
+        "outputPath": "E:\\ACME_csharp_course_onOOP\\ACM\\ACM.BL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\peter\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "E:\\ACME_csharp_course_onOOP\\ACM\\Acme.Common\\Acme.Common.csproj": {
+                "projectPath": "E:\\ACME_csharp_course_onOOP\\ACM\\Acme.Common\\Acme.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\ACME_csharp_course_onOOP\\ACM\\Acme.Common\\Acme.Common.csproj": {
+      "restore": {
+        "projectUniqueName": "E:\\ACME_csharp_course_onOOP\\ACM\\Acme.Common\\Acme.Common.csproj",
+        "projectName": "Acme.Common",
+        "projectPath": "E:\\ACME_csharp_course_onOOP\\ACM\\Acme.Common\\Acme.Common.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    }
+  }
+}
